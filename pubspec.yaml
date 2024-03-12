@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.6
   cloud_firestore: ^4.15.8
   firebase_core: ^2.27.0
   bloc: ^8.1.3
@@ -20,6 +20,7 @@ dependencies:
   user_repository:
     path: packages/user_repository
   firebase_auth: ^4.17.8
+  flutter_bloc: ^8.1.4
 
 dev_dependencies:
   flutter_test:
